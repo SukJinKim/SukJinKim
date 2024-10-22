@@ -7,11 +7,15 @@
 항상 배움의 열정과 겸손한 태도를 잃지 않기 위해,  
 대학 시절부터 **Always Like Newbie**를 줄인 **ALiNew**라는 닉네임을 사용하고 있습니다.  
 
-  
 
 ### 📊 Github Stats
 
 [![SukjinKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukJinKim&show_icons=true&show=reviews&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Contact
+
+<a href="mailto:rkathrwks@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg"></a>
+
 
 <!--
 **SukJinKim/SukJinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
