@@ -2,6 +2,8 @@
   <img src="./assets/ALiNew.gif"/>
 </div>
 
+[![SukjinKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukJinKim)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SukJinKim/SukJinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
