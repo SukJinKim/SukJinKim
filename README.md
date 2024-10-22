@@ -5,8 +5,9 @@
 ### 👋 안녕하세요! ALiNew, 김석진입니다.
 
 항상 신입처럼 겸손한 마음과 배움의 열정을 잃지 않기 위해,  
-대학 시절부터 "Always Like Newbie"를 줄인 ALiNew라는 닉네임을 사용하고 있습니다.  
+대학 시절부터 **"Always Like Newbie"**를 줄인 **ALiNew**라는 닉네임을 사용하고 있습니다.  
 
+  
 
 ### 📊 Github Stats
 
